@@ -14,6 +14,7 @@
 Java · Spring Boot · Node.js · Angular · React · TypeScript · PostgreSQL · MongoDB · Docker · Git · AWS · Kafka
 
 ---
+[![My Skills](https://skillicons.dev/icons?i=python,docker,fastapi,pytorch,tensorflow,ubuntu,git,aws,postgresql,mysql)](https://skillicons.dev)
 
 ### 📫 Contato
 
