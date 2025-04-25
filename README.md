@@ -11,13 +11,11 @@
 
 ### 🛠️ Tecnologias
 
-Java · Spring Boot · Node.js · Angular · React · TypeScript  
-PostgreSQL · MongoDB · Docker · Git · AWS · Kafka
+Java · Spring Boot · Node.js · Angular · React · TypeScript · PostgreSQL · MongoDB · Docker · Git · AWS · Kafka
 
 ---
 
 ### 📫 Contato
 
-[LinkedIn](https://linkedin.com/in/seu-perfil)  
-[E-mail](mailto:seuemail@email.com)  
-[Portfólio (opcional)](https://seu-portfolio.com)
+[LinkedIn](https://www.linkedin.com/in/gabriel-fullstack-dev)  
+[E-mail](gabrielolivernas@gmail.com) 
