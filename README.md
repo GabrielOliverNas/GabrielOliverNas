@@ -18,5 +18,10 @@ Java · Spring Boot · Node.js · Angular · React · TypeScript · PostgreSQL �
 
 ### 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-fullstack-dev)  
-[E-mail](gabrielolivernas@gmail.com) 
+<a href="https://www.linkedin.com/in/gabriel-fullstack-dev" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:gabrielolivernas@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
